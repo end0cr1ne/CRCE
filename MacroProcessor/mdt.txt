@@ -1,0 +1,5 @@
+{decr=     AR 3,4
+     MR 1,2
+     ST 1,2, incr=     AR 3,4
+     MR 1,2
+     ST 1,2}

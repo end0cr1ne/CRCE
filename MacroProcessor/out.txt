@@ -1,0 +1,9 @@
+pg1 START 0
+     AR 3,4
+     MR 1,2
+     ST 1,2
+lol  AR 6,7
+     AR 3,4
+     MR 1,2
+     ST 1,2
+     END

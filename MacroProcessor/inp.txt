@@ -1,0 +1,17 @@
+    macro
+     incr
+     AR 3,4
+     MR 1,2
+     ST 1,2
+     mend
+    macro
+     decr
+     AR 3,4
+     MR 1,2
+     ST 1,2
+     mend
+pg1 START 0
+     incr
+lol  AR 6,7
+     decr
+     END
