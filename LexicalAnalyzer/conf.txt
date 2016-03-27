@@ -1,0 +1,2 @@
+operators + - * / % =
+keywords lol foo bar rofl tp
